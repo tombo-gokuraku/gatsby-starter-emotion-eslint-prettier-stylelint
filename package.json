@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-starter-emotion-eslint-prettier-stylelint",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Basic Gatsby starter for using Emotion. Linting with ESLint and stylelint.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "tombo gokuraku",
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
